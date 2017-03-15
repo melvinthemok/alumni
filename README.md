@@ -1,6 +1,6 @@
 # Alumni
 
-Pure front-end showcase built in React.js of some of the alumni of WDI 7 and their works, with AJAX calls made to the GitHub API.
+Pure front-end showcase built in React.js featuring some WDI 7 alumni and their works, with AJAX calls made to the GitHub API.
 
 ![alt tag](http://i.giphy.com/xLQPotOZpxhAs.gif)
 
