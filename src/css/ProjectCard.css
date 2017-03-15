@@ -1,0 +1,23 @@
+.card.project {
+  width: 300px;
+  margin-bottom: 30px;
+  border-radius: 7px;
+  border: 3px solid #d9534f;
+  box-shadow:  4px 4px #d9534f,
+		 5px 5px #d9534f,
+		 6px 6px #d9534f,
+		 7px 7px #d9534f,
+		 8px 8px #d9534f;
+}
+
+.card-header h6 {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  border-radius: 0px;
+}

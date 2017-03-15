@@ -1,0 +1,283 @@
+[
+  {
+    "batch": "0",
+    "githubLogin": "jeremiahalex",
+    "project1": {
+      "repoName": "project-1",
+      "deployedUrl": "http://jeremiah.sg"
+    },
+    "project2": {
+      "repoName": "project-2",
+      "deployedUrl": "http://jeremiah.sg"
+    },
+    "project3": {
+      "repoName": "project-3",
+      "deployedUrl": "http://jeremiah.sg",
+      "collaborators": ["nickangtc", "terencelimsayjian"]
+    },
+    "project4": {
+      "repoName": "project-4",
+      "deployedUrl": "http://jeremiah.sg"
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "shanwan",
+    "project1": {
+      "repoName": "wdi7project1wanshan",
+      "deployedUrl": "https://shanwan.github.io/wdi7project1wanshan/",
+      "previewImage": "https://i.giphy.com/ESo025QiBGb6w.gif"
+    },
+    "project2": {
+      "repoName": "project-2-starter",
+      "deployedUrl": "https://buy2getherlah.herokuapp.com",
+      "previewImage": "https://i.giphy.com/DcnWWHrCBs93O.gif"
+    },
+    "project3": {
+      "repoName": "wdi7p3",
+      "deployedUrl": "https://efinancialcounsellor.herokuapp.com/",
+      "previewImage": "https://i.giphy.com/3oKIPkmkrLm9wbcLny.gif",
+      "collaborators": ["stephanietan", "AhGuGu"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "thisisdax",
+    "project1": {
+      "repoName": "mylittlegameproject",
+      "deployedUrl": "https://thisisdax.github.io/mylittlegameproject/",
+      "previewImage": "http://i.giphy.com/3o6Yg3Bo3l6pPNfntC.gif"
+    },
+    "project2": {
+      "repoName": "mylittlequestionapp",
+      "deployedUrl": "https://mylittlequestionapp.herokuapp.com/"
+    },
+    "project3": {
+      "repoName": "project-sporting",
+      "deployedUrl": "https://sporting-sg.herokuapp.com/",
+      "collaborators": ["chengkoon", "tomatokenji", "thisisdax"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "adrianke77",
+    "project1": {
+      "repoName": "WDI7-Project-1-Endless-Are-The-Quests",
+      "deployedUrl": "https://adrianke77.github.io/WDI7-Project-1-Endless-Are-The-Quests/",
+      "previewImage": "http://i.imgur.com/gvUHKY4.png"
+    },
+    "project2": {
+      "repoName": "WDI7-Project-2-BarterFly",
+      "deployedUrl": "https://barterfly.herokuapp.com/",
+      "previewImage": "http://i.imgur.com/zyOhQsA.png"
+    },
+    "project3": {
+      "repoName": "WDI-Project3-WhereWork",
+      "deployedUrl": "https://wherework.herokuapp.com/",
+      "previewImage": "https://i.imgur.com/Q6ZQzvw.gif",
+      "collaborators": ["benedictkohtc", "wekkit", "melvinthemok"]
+    }
+  },
+  {
+   "batch": "7",
+   "githubLogin": "yisheng90",
+   "project1": {
+     "repoName": "GA-Project-1-The-Exploding-Kitten-",
+     "deployedUrl": "https://yisheng90.github.io/GA-Project-1-The-Exploding-Kitten-/",
+     "previewImage": "https://camo.githubusercontent.com/b3870b0057eb2aaa9532d1e511962bba3ec8cd26/687474703a2f2f692e67697068792e636f6d2f6c337132473462667142376f6b6a6652362e676966"
+   },
+   "project2": {
+     "repoName": "Kakis",
+     "deployedUrl": "https://kakis.herokuapp.com"
+   },
+   "project3": {
+     "repoName": "third-project",
+     "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
+     "collaborators": ["cavacado", "AndrewThian", "sharona1610"]
+   }
+ },
+  {
+    "batch": "7",
+    "githubLogin": "wekkit",
+    "project1": {
+      "repoName": "smic3k",
+      "deployedUrl": "https://wekkit.github.io/wdi-7-project-1-wekkit/",
+      "previewImage": "http://i.giphy.com/3o6YgjqNoCkatTgSKQ.gif"
+    },
+    "project2": {
+      "repoName": "project-2-starter",
+      "deployedUrl": "https://cueup.herokuapp.com/",
+      "previewImage":"http://i.giphy.com/26xBMULV4KRLGaHM4.gif"
+    },
+    "project3": {
+      "repoName": "WDI-Project3-WhereWork",
+      "deployedUrl": "https://wherework.herokuapp.com/",
+      "previewImage": "https://i.imgur.com/Q6ZQzvw.gif",
+      "collaborators": ["adrianke77", "melvinthemok", "benedictkohtc"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "sharanvkaur",
+    "project1": {
+      "repoName": "wdi-p1-tetris",
+      "deployedUrl": "https://sharanvkaur.github.io/wdi-p1-tetris/"
+    },
+    "project2": {
+      "repoName": "wdi-p2-blog",
+      "deployedUrl": "https://sharan-lorem-blogsum.herokuapp.com/"
+    },
+    "project3": {
+      "repoName": "fleamarket",
+      "deployedUrl": "https://fleastarter.herokuapp.com",
+      "collaborators": ["EstherLow", "danialhr"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "AndrewThian",
+    "project1": {
+      "repoName": "space_invaders_clone",
+      "deployedUrl": "https://andrewthian.github.io/space_invaders_clone/",
+      "previewImage": "https://camo.githubusercontent.com/baf62f68a630089611c8bdcbac2e166397419858/687474703a2f2f692e67697068792e636f6d2f3236784251496c46444f43665066545a362e676966"
+    },
+    "project2": {
+      "repoName": "habitica_clone",
+      "deployedUrl": "https://turd-doo-app.herokuapp.com/"
+    },
+    "project3": {
+      "repoName": "third-project",
+      "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
+      "collaborators": ["cavacado", "yisheng90", "sharona1610"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "melvinthemok",
+    "project1": {
+      "repoName": "dealmaker-game",
+      "deployedUrl": "https://melvinthemok.github.io/dealmaker-game/",
+      "previewImage": "http://i.giphy.com/6q96bEW8ForOE.gif"
+    },
+    "project2": {
+      "repoName": "volenti",
+      "deployedUrl": "https://volenti.herokuapp.com/",
+      "previewImage": "http://i.giphy.com/13RQMJjXBF4Yco.gif"
+    },
+    "project3": {
+      "repoName": "WDI-Project3-WhereWork",
+      "deployedUrl": "https://wherework.herokuapp.com/",
+      "previewImage": "https://i.imgur.com/Q6ZQzvw.gif",
+      "collaborators": ["adrianke77", "benedictkohtc", "wekkit"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "cavacado",
+    "project1": {
+      "repoName": "poc",
+      "deployedUrl": "https://github.com/cavacado/poc",
+      "previewImage": "https://raw.githubusercontent.com/cavacado/poc/master/public/images/poc-demo.gif"
+    },
+    "project2": {
+      "repoName": "mmb",
+      "deployedUrl": "https://github.com/cavacado/mmb",
+      "previewImage": "https://raw.githubusercontent.com/cavacado/mmb/master/public/assets/mmb-demo.gif"
+    },
+    "project3": {
+      "repoName": "third-project",
+      "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
+      "collaborators": ["AndrewThian", "sharona1610", "yisheng90"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "benedictkohtc",
+    "project1": {
+      "repoName": "WDI-Project1",
+      "deployedUrl": "https://benedictkohtc.github.io/WDI-Project1/",
+      "previewImage": "http://i.giphy.com/26xBuRSRPgDtubQmQ.gif"
+    },
+    "project2": {
+      "repoName": "WDI-project-2-food-reviewer",
+      "deployedUrl": "https://foodreviewer.herokuapp.com/",
+      "previewImage": "https://i.imgur.com/PeS89I0.png"
+    },
+    "project3": {
+      "repoName": "WDI-Project3-WhereWork",
+      "deployedUrl": "https://wherework.herokuapp.com/",
+      "previewImage": "https://i.imgur.com/Q6ZQzvw.gif",
+      "collaborators": ["adrian77", "wekkit","melvinthemok"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "sharona1610",
+    "project1": {
+      "repoName": "game",
+      "deployedUrl": "https://sharona1610.github.io/",
+      "previewImage": "http://i.giphy.com/DzDmGTE4ZRtuw.gif"
+    },
+    "project2": {
+      "repoName": "project-2-starter",
+      "deployedUrl": "https://buszwatch.herokuapp.com/",
+      "previewImage": "http://i.giphy.com/TBL1cvkkH4fKg.gif"
+    },
+    "project3": {
+      "repoName": "third-project",
+      "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
+      "collaborators": ["cavacado", "AndrewThian", "sharona1610", "yisheng90"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "AhGuGu",
+    "project1": {
+      "repoName": "WDI_project_1",
+      "deployedUrl": ""
+    },
+    "project2": {
+      "repoName": "WDI_project_2",
+      "deployedUrl": ""
+    },
+    "project3": {
+      "repoName": "wdi7p3",
+      "deployedUrl": "https://efinancialcounsellor.herokuapp.com/",
+      "collaborators": ["stephanietan", "shanwan"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "EstherLow",
+    "project1": {
+      "repoName": "EstherLow.github.io",
+      "deployedUrl": "https://github.com/EstherLow/EstherLow.github.io"
+    },
+    "project2": {
+      "repoName": "project-2-starter",
+      "deployedUrl": "https://homeworkmanager.herokuapp.com/"
+    },
+    "project3": {
+      "repoName": "fleamarket",
+      "deployedUrl": "https://fleastarter.herokuapp.com",
+      "collaborators": ["danialhr", "sharanvkaur"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "danialhr",
+    "project1": {
+      "repoName": "goget",
+      "deployedUrl": "https://danialhr.github.io/goget/"
+    },
+    "project2": {
+      "repoName": "signoff",
+      "deployedUrl": "https://signoffdh.herokuapp.com"
+    },
+    "project3": {
+      "repoName": "fleamarket",
+      "deployedUrl": "https://fleastarter.herokuapp.com/",
+      "collaborators": ["EstherLow", "sharanvkaur"]
+    }
+  }
+]

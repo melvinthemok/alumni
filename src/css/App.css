@@ -1,0 +1,70 @@
+.container-fluid {
+  background: repeating-linear-gradient(
+  -40deg,
+  #fff,
+  #fff 20px,
+  #222 20px,
+  #222 40px
+  );
+}
+
+.jumbotron {
+  background-color: #fff;
+  text-align: center;
+}
+
+.people {
+  border: 3px solid #66ddfb;
+  box-shadow:  4px 4px #66ddfb,
+		 5px 5px #66ddfb,
+		 6px 6px #66ddfb,
+		 7px 7px #66ddfb,
+		 8px 8px #66ddfb;
+}
+
+.project {
+  border: 3px solid #d9534f;
+  box-shadow:  4px 4px #d9534f,
+		 5px 5px #d9534f,
+		 6px 6px #d9534f,
+		 7px 7px #d9534f,
+		 8px 8px #d9534f;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.btn-info {
+  background-color: #1c999f;
+}
+
+.btn-info:focus {
+  background-color: #66ddfb;
+}
+
+.btn-danger {
+  background-color: #e67b48;
+}
+
+.btn-danger:focus {
+  background-color: #d9534f;
+}
+
+.btn-info, .btn-info:active, .btn-info:focus {
+  box-shadow: 1px 1px #66ddfb,
+    2px 2px #66ddfb,
+		3px 3px #66ddfb,
+		4px 4px #66ddfb,
+		5px 5px #66ddfb,
+		6px 6px #66ddfb;
+}
+
+.btn-danger, .btn-danger:active, .btn-danger:focus {
+  box-shadow: 1px 1px #F0684B,
+    2px 2px #F0684B,
+		3px 3px #F0684B,
+		4px 4px #F0684B,
+		5px 5px #F0684B,
+		6px 6px #F0684B;
+}
